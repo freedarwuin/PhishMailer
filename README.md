@@ -3,23 +3,23 @@
 # PhishMailer
 
 
-**Coded By BiZken**
+**Coded By Freedarwuin**
 
-Special Thanks To Fanny Hasbi For helping Me With The Code Structure: https://github.com/fannyhasbi 
+Agradecimiento especial a Fanny Hasbi por ayudarme con la estructura del código: https://github.com/fannyhasbi 
 
-PhishMailer Will Help You To Create Professional Phishing Emails Fast And Easy
+PhishMailer le ayudará a crear correos electrónicos de phishing profesionales de forma rápida y sencilla
 
-#### If You Copy The Code And Make Your Own, Don't forget To Give Me Some Credit Kid!
+#### Si copias el código y creas el tuyo propio, ¡no olvides darme algo de crédito, muchacho!
 
-## You Don't Get Creds Using This Tool 
+## No obtienes créditos al usar esta herramienta
 
-## Legal Disclaimer
-I Won't Say That You Can Only Use This Tool For Educational Purposes And That You Can't Use It To Hack Other People
-Because I Have used It To Hack Others But Remember That It Is Illegal To Do It So If You Get Caught You're On Your Own
-Don't Come To Me And Blame Me For It
+## Aviso legal
+No diré que solo puedes usar esta herramienta con fines educativos y que no puedes usarla para hackear a otras personas
+Porque la he usado para hackear a otros, pero recuerda que es ilegal hacerlo, así que si te atrapan, estás solo
+No vengas a mí y me eches la culpa por ello
 
-### Features
-* Phishing Email Creator With 20 Different Templates: 
+### Características
+* Creador de correos electrónicos de phishing con 20 plantillas diferentes: 
   * Instagram
   * Facebook
   * Gmail(2)
@@ -38,47 +38,46 @@ Don't Come To Me And Blame Me For It
   * 000Webhosting
   * AskFM
   * Gamehag
-#### And More Are On The Way
-* Creates .HTML
-* Send your emails to your target
-* Easy To Use
+#### Y más en camino
+* Crea .HTML
+* Envía tus correos electrónicos a tu destinatario
+* Fácil de usar
 
 <a href="https://ibb.co/HTGXTNB"><img src="https://i.ibb.co/8gPXgzN/phishmailer-main-menu-2-0.png" alt="phishmailer-main-menu-2-0" border="0"></a>
 
 #### Gmail (Simple) Result:
 <a href="https://ibb.co/kSjzn5s"><img src="https://i.ibb.co/hmbr5LJ/Gmail-github.png" alt="Gmail-github" border="0"></a>
 
-## Install
-**You Need Python3**
+## Instalar
+**Necesita Python3**
 
-**Tested On Kali Linux**
+**Probado en Kali Linux**
 
-First Clone The Repostory With "git clone"
+Primero, clona el repositorio con "git clone"
+
 ```bash
 git clone https://www.github.com/BiZken/PhishMailer.git
 ```
-Then Go To The PhishMailer Folder And Change Permission On "PhishMailer" (If You Ain't Root)
-```python
+Luego, vaya a la carpeta PhishMailer y cambie el permiso en "PhishMailer" (si no es root)```python
 chmod +x PhishMailer.py
 ```
-And then Run it:
+Y luego ejecútalo:
 ```Run
 python3 PhishMailer.py
 ```
-## To Do
-- [x] Send Emails
-- [x] Add More Email Templates
-- [ ] Add More Target Specified Emails, With Profile Pictures for example
-- [ ] Add Emails With More Languages 
-- [ ] Mass Email Sender
-- [x] Fix More Email Clients To Send From
+## Hacer
+- [x] Enviar correos electrónicos
+- [x] Agregar más plantillas de correo electrónico
+- [ ] Agregar más correos electrónicos específicos de destino, con imágenes de perfil, por ejemplo
+- [ ] Agregar correos electrónicos con más idiomas
+- [ ] Remitente de correo electrónico masivo
+- [x] Fijar más clientes de correo electrónico desde los que enviar
 
-## Contact
-If You Have Any Ideas And/Or Have Created Some Phishing Email(s) And Want To Have Your Name Here As A Code Helper
-You Can Contact Me Here:
-Instagram: bizk3n
+## Contacto
+Si tienes alguna idea o has creado algún correo electrónico de phishing y quieres que tu nombre aparezca aquí como ayuda para el código
+puedes contactarme aquí:
+Instagram: freedarwuin
 
-## Support 
-If You Want To Support Me So I Can Continue And Update PhishMailer And Create Other Hacking Tools
-You Can Do That Here:
+## Soporte
+Si quieres ayudarme para que pueda continuar y actualizar PhishMailer y crear otras herramientas de piratería, puedes hacerlo aquí:
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/BiZken)
